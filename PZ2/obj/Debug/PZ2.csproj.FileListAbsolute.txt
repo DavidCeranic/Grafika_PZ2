@@ -1,0 +1,32 @@
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csproj.CopyComplete
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\david\Desktop\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.pdb
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\bin\Debug\PZ2.exe.config
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\bin\Debug\PZ2.exe
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\bin\Debug\PZ2.pdb
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\App.g.cs
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\MainWindow.baml
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.g.resources
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.csproj.CopyComplete
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.exe
+G:\FAX cetvrta\Grafika\PZ2\Odbrana\PZ2\PZ2\obj\Debug\PZ2.pdb
